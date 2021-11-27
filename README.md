@@ -1,8 +1,6 @@
 **Hello There, I'm Abhinav**
 
-I am a front end Web Developer.
-Currently learning backend development along the way.
-
+I am a Web Developer.
 
 
 <!--
