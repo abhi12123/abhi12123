@@ -3,12 +3,15 @@
 I am a Frontend Web Developer, based in Kerala, India📍.   
 I'm passionate about coding, art, blogging and UI/UX  
 
-I built [CssTextFormatter](https://csstextformatter.abhinavvp.com/) to help devs generate CSS for text easily.  
+**Some things that I've built**   
+ - [CssTextFormatter](https://csstextformatter.abhinavvp.com/) to help devs generate CSS for text easily.  
+ - [Minesweeper Game](https://csstextformatter.abhinavvp.com/) 
+
 
 You can checkout my [blog](https://abhinavvp.com/). 📝
 
 **Things that I've worked with🛠️**  
-HTML5, CSS3, JavaScript, ES6, ReactJs, Git, VSCode, NestJs, PostgreSQL
+HTML5, CSS3, JavaScript, ES6, ReactJs, TailWindCSS, Git, VSCode, NestJs, PostgreSQL
 
 Feel free to reach out to me via mail at vpofficial55@gmail.com 📨📨📨.
 Or any of the social media links provided at my [blog](https://abhinavvp.com/). 📝
