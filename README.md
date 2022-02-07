@@ -6,6 +6,7 @@ I'm passionate about coding, art, blogging and UI/UX
 **Some things that I've built**   
  - [CssTextFormatter](https://csstextformatter.abhinavvp.com/) to help devs generate CSS for text easily.  
  - [Minesweeper Game](https://minesweeper.abhinavvp.com/) 
+ - [ToDo List Chrome Extension](https://github.com/abhi12123/todoextension)
 
 
 You can checkout my [blog](https://abhinavvp.com/). 📝
