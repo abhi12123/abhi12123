@@ -1,7 +1,17 @@
-**Hello There, I'm Abhinav**
+### Hello There, I'm Abhinav
 
-I am a Web Developer.
+I am a Frontend Web Developer, based in Kerala, India📍.   
+I'm passionate about coding, art, blogging and UI/UX  
 
+I built [CssTextFormatter](https://csstextformatter.abhinavvp.com/) to help devs generate CSS for text easily.  
+
+You can checkout my [blog](https://abhinavvp.com/). 📝
+
+**Things that I've worked with🛠️**  
+HTML5, CSS3, JavaScript, ES6, ReactJs, Git, VSCode, NestJs, PostgreSQL
+
+Feel free to reach out to me via mail at vpofficial55@gmail.com 📨📨📨.
+Or any of the social media links provided at my [blog](https://abhinavvp.com/). 📝
 
 <!--
 **abhi12123/abhi12123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
