@@ -1,7 +1,14 @@
 ### Hello There, I'm Abhinav
 
-I am a Frontend Web Developer, based in Kerala, India📍.   
-I'm passionate about coding, art, blogging and UI/UX  
+A Front-End Developer based in Banglore, Indai with over 4 years of professional experience in designing high responsive, dynamic, user-centric websites and applications. Knowledgeable in JavaScript, TypeScript, ReactJS, Next.js, and expert in state management, performance tuning, and cross-browser issue resolutions.
+
+At Scispace, I designed and developed several high-level features for busy systems, oversaw the implementation of a ShadCN-based global design system, and sponsored globalized engagement efforts to enhance internationalization. I take pleasure in constructing abstracting building blocks, optimizing user interface rendering time, and collaborating with other product teams to provide great end-user solutions.
+
+I enjoy complex problem solving, giving developers instructions, and improving development cycle time by using best practices. Always on the lookout for new ways to ensure advanced and effective changes in front-end development.
+
+Let's network and chat on front-end technologies, product development, or other interesting collaboration ideas!
+
+
 
 **Some things that I've built**   
  - [CssTextFormatter](https://csstextformatter.abhinavvp.com/) to help devs generate CSS for text easily.  
