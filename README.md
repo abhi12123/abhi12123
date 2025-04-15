@@ -1,6 +1,6 @@
 ### Hello There, I'm Abhinav
 
-A Front-End Developer based in Banglore, Indai with over 4 years of professional experience in designing high responsive, dynamic, user-centric websites and applications. Knowledgeable in JavaScript, TypeScript, ReactJS, Next.js, and expert in state management, performance tuning, and cross-browser issue resolutions.
+A Front-End Developer based in Banglore, India with over 4 years of professional experience in designing high responsive, dynamic, user-centric websites and applications. Knowledgeable in JavaScript, TypeScript, ReactJS, Next.js, and expert in state management, performance tuning, and cross-browser issue resolutions.
 
 At Scispace, I designed and developed several high-level features for busy systems, oversaw the implementation of a ShadCN-based global design system, and sponsored globalized engagement efforts to enhance internationalization. I take pleasure in constructing abstracting building blocks, optimizing user interface rendering time, and collaborating with other product teams to provide great end-user solutions.
 
