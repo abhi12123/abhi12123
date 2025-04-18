@@ -10,19 +10,31 @@ Let's network and chat on front-end technologies, product development, or other 
 
 
 
-**Some things that I've built**   
- - [CssTextFormatter](https://csstextformatter.abhinavvp.com/) to help devs generate CSS for text easily.  
- - [Minesweeper Game](https://minesweeper.abhinavvp.com/) 
+**Few things that I've built**   
+ - [Nobel Laurets](https://nobel-laurets.vercel.app/)
+     - Explores Nobel Prize Winners and their achievements.
+     - Created using React, Router V7, and [Nobel Prizes API](https://app.swaggerhub.com/apis/NobelMedia/NobelMasterData/2.1)
+ - [Meta Preview](https://meta-preview-q8lg.vercel.app/)
+     - A Tool which gives a preview of how a website looks in major social media platforms
+     - Helpful for testing if the meta tags are working as expected
+     - Created using NextJs
+ - [Minesweeper Game](https://abhi12123.github.io/minesweeper/#/)
+     - Classic Minesweeper game
+ - [CssTextFormatter](https://abhi12123.github.io/csstextformatter-v1/) to help devs generate CSS for text easily.
+     - A Tool which can be used to apply few CSS styles on text and see how it looks real time
  - [ToDo List Chrome Extension](https://github.com/abhi12123/todoextension)
+     - Classic ToDo List Chrome Extension
+ - [HushChat](https://github.com/abhi12123/hushchat_frontend) - An anonymous webchat interface made using sockets
+ - [Meditation App](https://abhi12123.github.io/meditation_app/)
+ - [Music App](https://abhi12123.github.io/music-app/)
+    
 
 
-You can checkout my [blog](https://abhinavvp.com/). 📝
-
-**Things that I've worked with🛠️**  
-HTML5, CSS3, JavaScript, ES6, ReactJs, TailWindCSS, Git, VSCode, NestJs, PostgreSQL
+**Tools that I've worked with🛠️**  
+HTML5, CSS3, JavaScript, ES6, ReactJs, TailWindCSS, Git, VSCode, NestJs, PostgreSQL, NextJs, Typescript
 
 Feel free to reach out to me via mail at vpofficial55@gmail.com 📨📨📨.
-Or any of the social media links provided at my [blog](https://abhinavvp.com/). 📝
+Or any of the social media links provided at my [About Page](https://abhinavvp.com/). 📝
 
 <!--
 **abhi12123/abhi12123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
